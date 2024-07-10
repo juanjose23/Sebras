@@ -7188,7 +7188,7 @@ a.text-dark:hover, a.text-dark:focus {
     top: 50%;
     left: calc(1.562rem - 5px);
     transform: translateY(-50%);
-    background-color: rgba(247, 181, 0, 0.43);
+    background-color:#9DBEEE;
     transition: width 0.3s ease-in; }
     @media (max-width: 991px) {
       .oleez-header .navbar-nav .nav-link:not(.nav-link-btn)::before {
